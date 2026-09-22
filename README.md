@@ -1,8 +1,7 @@
 # Full-Stack Text-to-Speech (TTS) Web Application
 A responsive, full-stack browser-based web application designed to convert written text into spoken audio across multiple languages, voice tones, and genders. 
 
-## 🚀 Project Overview
-This project consists of two main parts:
+## 📁 Project Structure
 * Frontend: Built with React and Vite, featuring a modern UI with separate modular components, live character counting, language selection, voice tone customization, and transcript downloading.
 * Backend : Built with Node.js and Express using a structured MVC pattern (controllers, routes, and middleware) to handle voice configurations and text processing.
 
