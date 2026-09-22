@@ -3,8 +3,8 @@ A responsive, full-stack browser-based web application designed to convert writt
 
 ## 🚀 Project Overview
 This project consists of two main parts:
-* **Frontend: Built with React and Vite, featuring a modern UI with separate modular components, live character counting, language selection, voice tone customization, and transcript downloading.
-* **Backend : Built with Node.js and Express using a structured MVC pattern (controllers, routes, and middleware) to handle voice configurations and text processing.
+* Frontend: Built with React and Vite, featuring a modern UI with separate modular components, live character counting, language selection, voice tone customization, and transcript downloading.
+* Backend : Built with Node.js and Express using a structured MVC pattern (controllers, routes, and middleware) to handle voice configurations and text processing.
 
 ## 🛠️ Backend Architecture
 A Node.js and Express backend server built using a structured MVC pattern to handle voice configurations and text-to-speech processing
@@ -21,7 +21,7 @@ A Node.js and Express backend server built using a structured MVC pattern to han
 
 ## 🚀 Quick Setup Instructions
 
-### 2. Run Backend (`http://localhost:5000`)
+### 1. Run Backend (`http://localhost:5000`)
 ```powershell
 cd backend
 npm install
